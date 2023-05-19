@@ -1,0 +1,15 @@
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\bin\Debug\net6.0\NyelvVizsga.exe
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\bin\Debug\net6.0\NyelvVizsga.deps.json
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\bin\Debug\net6.0\NyelvVizsga.runtimeconfig.json
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\bin\Debug\net6.0\NyelvVizsga.dll
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\bin\Debug\net6.0\NyelvVizsga.pdb
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.csproj.AssemblyReference.cache
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.AssemblyInfoInputs.cache
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.AssemblyInfo.cs
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.csproj.CoreCompileInputs.cache
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.dll
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\refint\NyelvVizsga.dll
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.pdb
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\NyelvVizsga.genruntimeconfig.cache
+C:\Users\major\source\repos\NyelvVizsga\NyelvVizsga\obj\Debug\net6.0\ref\NyelvVizsga.dll
